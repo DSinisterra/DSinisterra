@@ -1,8 +1,9 @@
+## Hi there 👋 
+
+## I'm
 <img src="./DS.png" alt="Denis Sinisterra" width="70%">
 
-
-## Hi there 👋 
-## I'm Denis, a passionate FullStack developer 👨‍💻.
+## a passionate FullStack developer 👨‍💻.
 
 ```
 const skills = {
