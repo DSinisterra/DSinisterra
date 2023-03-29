@@ -2,7 +2,7 @@
 
 ## I'm
 
-<img src="./DS.png" alt="Denis Sinisterra" width="70%" style="opacity: 0.5;">
+<img src="./DS.png" alt="Denis Sinisterra" width="70%" style="opacity: 0.7;">
 
 ## a passionate FullStack developer 👨‍💻.
 
