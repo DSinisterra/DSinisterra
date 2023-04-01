@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-## 👨‍💻. I’m a passionate FullStack developer. I create user-friendly web applications and value assertive communication, empathy, and teamwork as soft skills. I'm always eager to learn and explore new technologies to enhance my skills. 
+#### 👨‍💻. I’m a passionate FullStack developer. I create user-friendly web applications and I'm characterized by assertive communication, empathy, and teamwork. I'm always eager to learn and explore new technologies to enhance my skills. 
 
 <!-- 
 ```
