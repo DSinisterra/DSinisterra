@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-### I’m a passionate FullStack developer. I create user-friendly web applications and I'm characterized by assertive communication, empathy, and teamwork. I'm always eager to learn and explore new technologies to enhance my skills. 👨‍💻. 
+### I’m a passionate FullStack developer. I create user-friendly web applications and I'm characterized by assertive communication, empathy, and teamwork. I'm always eager to learn and explore new technologies to enhance my skills 👨‍💻. 
 
 I have a background in pharmaceutical chemistry and teaching assistance that helped me to work in a team, communicate effectively and improve customer service skills. I'm specialized in Front-end. I have knowledge in agile methodologies, GIT, data structure, algorithms, javascript, react, next js, node js, Express, SQL and CSS. With teamwork skills, communication and adaptability.
 
@@ -28,4 +28,4 @@ const skills = {
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/denis-sinisterra-9bb49b218) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/denis-sinisterra-9bb49b218) [![Gmail](https://img.shields.io/badge/gmail-%230077B5.svg?logo=gmail&logoColor=white)]
